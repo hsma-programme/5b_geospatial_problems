@@ -1,0 +1,10 @@
+name: geopandas
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - pip
+  - python=3.9

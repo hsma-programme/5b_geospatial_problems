@@ -1,12 +1,12 @@
-name: geopandasTEST
+name: geographicprobs
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - pandas
-  - numpy
-  - matplotlib
-  - pip
+  - pandas=1.5.2
+  - numpy=1.23.5
+  - matplotlib=3.6.2
+  - pip=22.3.1
   - python=3.9
-  - folium
-  - jupyter
+  - folium=0.14.0
+  - jupyter=1.0.0
